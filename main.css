@@ -1,0 +1,82 @@
+body{
+    background-color: #F0F2F5;
+}
+.contenedor{
+    width: auto;
+    height: 1000px;
+}
+.contenedordatos{
+    width: 800px;
+    height: 500px;
+    margin: auto;
+    margin-top: 150px;
+}
+.contenedortexto{
+    width: 400px;
+    height: 500px;
+    float: left;
+}
+.contenedorformulario{
+    width: 390px;
+    height:500px;
+    float:right;
+}
+.text{
+    font-family: SFProDisplay-Regular, Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+.contenedorformularioinput{
+    width: 390px;
+    height: 450px;
+    background-color: white;
+    border-radius: 3%;
+}
+.cajatexto{
+    height: 50px;
+    width: 300px;
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 6px;
+}
+.cajaboton{
+    height: 50px;
+    width: 300px;
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color: #3478F5;
+    font-size: 20px;
+    color: white ;
+    border-radius: 6px;
+    
+}
+.cajaboton:hover{
+    height: 50px;
+    width: 300px;
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color: rgb(61, 61, 247);
+    font-size: 20px;
+    color: white ;
+    border-radius: 6px;  
+}
+.cajaboton2{
+    height: 50px;
+    width: 200px;
+    margin-left: 95px;
+    margin-top: 20px;
+    background-color: #54B718;
+    font-size: 20px;
+    color: white ;
+    border-radius: 6px;  
+}
+.cajaboton2:hover{
+    height: 50px;
+    width: 200px;
+    margin-left: 95px;
+    margin-top: 20px;
+    background-color: #418a14;
+    font-size: 20px;
+    color: white ;
+    border-radius: 6px;  
+}
